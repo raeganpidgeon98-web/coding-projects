@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Chocolate Cake</title> 
+</head>
+<body>
+<h1>Chocolate Cake</h1>
+<p>Hey there! Welcome to your ultimate guide for whipping up a delightful chocolate cake. Just follow these easy steps, and you'll be on your way to baking the most scrumptious chocolate cake ever.</p> 
+<img src="https://blog.fnp.sg/wp-content/uploads/2022/05/Chocolate-Fudge-Cake-1-2.jpg" alt="A chocolate layered cake">
+<h2>Ingredients</h2>
+<ul>
+  <li>Flour</li>
+  <li>Granulated Sugar</li>
+  <li>Cocoa Powder</li>
+  <li>Baking Soda</li>
+  <li>Baking Powder</li>
+  <li>Salt</li>
+  <li>Espresso Powder</li>
+  <li>Eggs</li>
+  <li>Milk</li>
+  <li>Oil</li>
+  <li>Vanilla Extract</li>
+  <li>Boiling Water</li>
+  </ul>
+  <h2>Instructions</h2>
+  <ol>
+    <li>Preheat the oven to 350 degrees.</li>
+    <li>Spray your cake pan with baking spray or butter it.</li>
+    <li>Add flour, sugar, cocoa powder, baking powder, baking soda, salt, and expresso powder into a large bowl or mixer and whisk it.</li>
+    <li>Add eggs, milk, oil, and vanilla extract to flour mixture and mix together.</li>
+    <li>Add boiling water while mixing until it's well combined.</li>
+    <li> Pour cake batter in the cake pan.</li>
+    <li>Bake for 30-35 minutes.</li>
+    <li>Insert a toothpick into the cake to determine whether the cake is finished.</li>
+    <li>Allow the cake to cool for 10 minutes.</li>
+    <li>Remove cake from the pan.</li>
+    <li>Cool the cake completely.</li>
+    <li>Add chocolate frosting to your cake.</li>
+    <li>(Optional) Add any other toppings to your cake like strawberries or whipped cream.</li>
+    </ol>
+    </body>
+    </html>
